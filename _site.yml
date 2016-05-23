@@ -1,0 +1,19 @@
+name: 'rguerra-website'
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: '.'
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+    includes:
+      after_body: _resources/include/after_body.html
+    css: _resources/css/styles.css
