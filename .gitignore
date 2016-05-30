@@ -2,7 +2,3 @@
 .DS_Store
 .RData
 .Rhistory
-*.html
-site_libs/
-Makefile
-RenderSite.R
