@@ -4,3 +4,5 @@
 .Rhistory
 *.html
 site_libs/
+Makefile
+RenderSite.R
