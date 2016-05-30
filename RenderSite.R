@@ -12,5 +12,5 @@
 #rmarkdown::clean_site(preview = TRUE)
 
 # Actually remove the files.
-#rmarkdown::clean_site()
+rmarkdown::clean_site()
 
