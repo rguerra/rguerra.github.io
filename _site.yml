@@ -12,7 +12,7 @@ output:
     theme: cosmo
     highlight: textmate
     include:
-      after_body: _include/footer.html    
+      after_body: _include/comments.html
     toc_depth: 3
     toc_float:
       collapsed: false
