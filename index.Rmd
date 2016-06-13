@@ -1,6 +1,5 @@
 ---
-title: "Personal Bookmarks and Notes on different subjects."
+title: "Notes on different subjects."
 ---
 
-# Machine Learning
-[Machine Learning Concepts](ml-concepts.html)
+# Under Construction
